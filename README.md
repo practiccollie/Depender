@@ -6,4 +6,4 @@
                         /_____/\___/ .___/\___/_/ /_/\__,_/\___/_/
                                   /_/                                                       
 ``` 
-The tool that will detect and exploit your organization's dependencies.
+The tool will detect and exploit your organization's dependencies.
